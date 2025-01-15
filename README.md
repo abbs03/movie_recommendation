@@ -13,3 +13,6 @@ This project contains Jupyter notebooks for building movie recommendation system
    - Implemented matrix factorization using PyTorch to uncover latent features.  
    - Identified similar users based on these features.  
    - Recommended top-rated movies among those preferred by similar users.
+
+## Data Source
+The dataset used in this project is [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) from Kaggle.
